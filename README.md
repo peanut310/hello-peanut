@@ -1,2 +1,2 @@
 # hello-peanut
-HELO PEANUT
+HELO PEANUT!
