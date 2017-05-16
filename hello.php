@@ -1,5 +1,4 @@
 <?php
-
-    echo "HELLO WORLD! I'm PEANUT!!!";
-
+    echo "HELLO WORLD";
+    echo PHP_EOL . "I am Peanut.";
 ?>
